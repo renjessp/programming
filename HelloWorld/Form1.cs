@@ -21,6 +21,7 @@ namespace HelloWorld
         {
             label1.Text = "Hello World";
             displayButton.Visible = false;
+            // hello
         }
 
         private void label2_Click(object sender, EventArgs e)
